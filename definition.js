@@ -1,11 +1,11 @@
 var oxfortDictBasePath = "https://od-api.oxforddictionaries.com:443/api/v1/entries/";
 var language = "en";
 
-var oxfordDictId = "ea8e0bdd";
-var oxfordDistKey = "44c9fed39c05c90b35d3f8457dc74b6b";
+var oxfordDictId = "your_oxford_dist_id";
+var oxfordDistKey = "your_oxford_dist_key";
 
 var wordnikBasePath = "https://api.wordnik.com:80/v4/word.json/";
-var wordnikKey = "e2734f81e8d612edeccb4197e050ccca215cd879beae726fb";
+var wordnikKey = "your wordnikkey";
 // Wordnik sample request
 // http://api.wordnik.com:80/v4/word.json/include/definitions?
 // limit=200&includeRelated=true&useCanonical=false&includeTags=false&
